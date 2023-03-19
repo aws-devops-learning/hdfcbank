@@ -1,6 +1,6 @@
 Updated from MASTER BRANCH - fro GIT stash Demo
 This line is added  2nd time  for GIT STASH demo -
-
+Deploy.sh - GIT CHerry-pick demo
 Added this line form  -- DEV Branch
 
 This file contains deployment script.
