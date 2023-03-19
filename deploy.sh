@@ -1,5 +1,3 @@
-This line is added  2nd time  for GIT STASH demo -
-
 Added this line form  -- DEV Branch
 
 This file contains deployment script.
